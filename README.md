@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @VihaShomikha A S
-- 👀 I’m interested in electronics
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on any robotics and semiconductors projects
+- 🚀 Turning caffeine into code (with occasional bugs for flavor)
+- 💻 I don’t always write clean code, but when I do… it’s by accident
+- 🐛 Professional bug creator → part-time bug fixer
+- 📚 Learning something new every day (mostly from my own mistakes)
+- ⚡ Ctrl+C + Ctrl+V engineer with a passion for innovation
+- 🛠️ Building projects that may or may not work on the first try
+- 🌙 Debugging at night, questioning life by morning
 - 📫 Reach me @vihashomikhaas@gmail.com
 
 <!---
